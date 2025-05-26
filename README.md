@@ -15,4 +15,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DaviAfons&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# ⚙️ Princípios:
+- **Criatividade com propósito:** Busco unir design e tecnologia para soluções funcionais e impactantes.  
+- **Aprendizado contínuo:** Estou sempre evoluindo, explorando novas linguagens, ferramentas e conceitos.  
+- **Responsabilidade profissional:** Prezo pela entrega de projetos éticos, organizados e bem documentados.  
+- **Colaboração:** Acredito que boas ideias nascem do trabalho em equipe e da escuta ativa.  
+- **Qualidade acima da pressa:** Prefiro um bom código e um bom layout do que uma entrega apressada.
 
+---
+[![](https://visitcount.itsvg.in/api?id=DaviAfons&icon=0&color=0)](https://visitcount.itsvg.in)
