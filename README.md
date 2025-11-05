@@ -1,6 +1,5 @@
 # 💫 About Me:
--Davi Afonso<br>-19 anos<br>-  
-Técnico em Informática para Internet certificado pelo SENAI<br>-Designer Gráfico certificado pela MK+ Academy<br>- Uberaba MG
+-Davi Afonso<br>-19 anos<br>-Técnico em Informática para Internet certificado pelo SENAI<br>-Designer Gráfico certificado pela MK+ Academy<br>- Uberaba MG
 
 
 ## 🌐 Socials:
