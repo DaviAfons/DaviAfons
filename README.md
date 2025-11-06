@@ -1,4 +1,4 @@
-<h2 align="center">💫 Sobre Mim</h2>
+# 💫 Sobre Mim
 
 <p align="center">
   👋 Olá! Meu nome é <strong>Davi Afonso</strong>, tenho <strong>19 anos</strong> e sou apaixonado por tecnologia e design.
