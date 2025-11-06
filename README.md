@@ -1,6 +1,17 @@
-# 💫 About Me:
--Davi Afonso<br>-19 anos<br>-Técnico em Informática para Internet certificado pelo SENAI<br>-Designer Gráfico certificado pela MK+ Academy<br>-
-Estudante de Sistemas de Informação pela Universidade de Uberaba (UNIUBE)<br>Uberaba MG
+<h2 align="center">💫 Sobre Mim</h2>
+
+<p align="center">
+  👋 Olá! Meu nome é <strong>Davi Afonso</strong>, tenho <strong>19 anos</strong> e sou apaixonado por tecnologia e design.
+</p>
+
+<h3>🎓 Formações e Certificações</h3>
+<ul>
+  <li>💻 <strong>Técnico em Informática para Internet</strong> — SENAI</li>
+  <li>🎨 <strong>Designer Gráfico</strong> — MK+ Academy</li>
+  <li>🎓 <strong>Graduando em Sistemas de Informação</strong> — Universidade de Uberaba (UNIUBE)</li>
+</ul>
+
+<p>📍 <strong>Localização:</strong> Uberaba, MG</p>
 
 
 ## 🌐 Socials:
